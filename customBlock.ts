@@ -8,7 +8,7 @@ enum MyEnum {
 /**
  * Custom blocks
  */
-//%weight=100 colo=#0fbc11 icon"╬"
+//%weight=100 colo=#16ab16 icon"\uf1db"
 namespace customBlock{
     /**
      * TODO: escribe your function here
