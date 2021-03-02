@@ -7,7 +7,7 @@ enum MyEnum {
 /**
  * Custom blocks
  */
-//%weight=100 colo=#16ab16 icon"\uf1db"
+//%weight=100 color=#16ab16 icon"\uf1db"
 namespace customBlock{
     /**
      * TODO: describe your function here
@@ -24,7 +24,7 @@ namespace customBlock{
      * TODO: describe your function here
      * @param value describe value here, eg: 5
      */
-    //% block="computefib with $value"
+    //% block="compute fib with $value"
     export function fib(value: number): number{
         return value <= 1 ? value : fib(value -1) + fib(value)
     }
