@@ -1,4 +1,3 @@
-// Ajouter votre code ici
 enum MyEnum {
     //% block="one"
     One,
@@ -11,7 +10,7 @@ enum MyEnum {
 //%weight=100 colo=#16ab16 icon"\uf1db"
 namespace customBlock{
     /**
-     * TODO: escribe your function here
+     * TODO: describe your function here
      * @param n dexcribe parameter here, eg: 5
      * @param s describe parameter here, eg: "hello"
      * @param e describe parameter here
